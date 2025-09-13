@@ -70,7 +70,7 @@ for q, a in questions.items():
         print("your score is ", score, "\n")
 
 
-
+print("game over")
 print("your final score is ", score)
 
 
